@@ -4,6 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Dan Schaffer's home page full of random notes and projects.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://danschaffer.info" # the base hostname & protocol for your site, e.g. http://example.com
+# special links to social media
 twitter_username: danscha
 github_username:  danschaffer
 linkedin_username: dan-schaffer-785244
