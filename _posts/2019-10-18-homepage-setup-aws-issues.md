@@ -1,7 +1,7 @@
 ---
 title:  "AWS DNS Issues"
 date:   2019-10-18 10:00:00 -0400
-categories: homepage aws
+categories: aws
 ---
 
 I use Amazon Web Services entirely to host the web site on [https://danschaffer.info](https://danschaffer.info).

@@ -1,6 +1,6 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 4.0.0"
-gem "minima", "~> 2.5"
+gem "jekyll", "~> 3.3"
+gem "alembic-jekyll-theme"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
