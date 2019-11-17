@@ -34,4 +34,4 @@ Each A record points to the cloudfront distribution.  I could test each A record
 and `nslookup www.danschaffer.info`.
 
 It was a good first step to get the jekyll site working under the danschaffer.info domain and better understand
-how route53 works.  I thought the setup would be easier but anyways it's a victory to have the site working.
+how route53 works.  I thought the setup would be easier but anyways it is a victory to have the site working.
