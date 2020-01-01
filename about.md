@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I am a site reliabilty engineer in the Boston area.  My work interests are automating processes and creating infrastructure.  I enjoy
-learning new technologies and tackling difficult problems.  
+Hi, I am a software engineering and site reliabilty engineer in the Boston area.  My work interests are automating processes and creating infrastructure mostly on AWS.  I enjoy learning new technologies and tackling difficult problems.  
 
 My other interests are 3d printing, electronics, rock climbing, biking and running!  I also really like cooking, looking at pictures of food, and tacking random cooking projects.
 
