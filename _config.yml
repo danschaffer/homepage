@@ -3,6 +3,7 @@ email: danielhschaffer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Dan Schaffer home page full of my recipes, random notes and projects.
 baseurl: "" # the subpath of your site, e.g. /blog
+paginate: 5
 url: "https://danschaffer.info" # the base hostname & protocol for your site, e.g. http://example.com
 # special links to social media
 twitter_username: danscha
