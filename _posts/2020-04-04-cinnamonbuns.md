@@ -46,7 +46,7 @@ Makes 8 large buns.
 - let rise until about doubled in size, about 2 to 2 1/2 hours
 
 #### filling and rolling
-![rolling dough and filling](/assets/images/cinnamonbuns1.jpg)
+![rolling dough and filling](/assets/images/cinnamonbuns2.jpg)
 - in a 13x9 baking pan, make a foil sling by folding 2 sheets of aluminum foil, spray or rub with vegetable oil
 - in a bowl combine sugar, cinnamon, salt
 - after dough has risen, push down to deflate
