@@ -25,10 +25,14 @@ pecans.
 ### Steps
 - add 4 cups of water, pinch, salt, cinnamon to heavy sauce pan
 - bring 4 cups of water to boil
+
 ![add oats to boiling water](/assets/images/steelcutoats1.jpg)
+
 - add 1 cup steel cut oats
 - cover and leave overnight
+
 ![oats simmering](/assets/images/steelcutoats2.jpg)
+
 - in morning stir well, if water absorbed add 1/2 c milk or water
 - heat for 5-10m
 - serve to bowls and add toppings
