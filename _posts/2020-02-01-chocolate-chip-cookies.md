@@ -5,7 +5,7 @@ categories: recipes
 ---
 ![Chocolate Chip Cookies](/assets/images/chocolate-chip-cookies.jpg)
 
-One of my favorite cooking youtube channels is What's Eating Dan? from America's Test Kitchen.  I like his episode on chocolate chip cookies.  I learned the chocolate chip (tollhouse) cookie was invented in Massachusetts.
+One of my favorite cooking youtube channels is Whats Eating Dan? from Americas Test Kitchen.  I like his episode on chocolate chip cookies.  I learned the chocolate chip (tollhouse) cookie was invented in Massachusetts.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/oCt3xhKCX1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

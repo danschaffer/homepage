@@ -58,7 +58,6 @@ Makes 8 large buns.
 - with a serrated knife slice cylinder into 8 pieces
 - place pieces into the baking pan cut side down
 - cover with plastic wrap and let rise overnight for about 12-16 hours
-![unrisen buns](/assets/images/cinnamonbuns2.jpg)
 
 #### bake and glaze
 ![unrisen buns](/assets/images/cinnamonbuns3.jpg)
