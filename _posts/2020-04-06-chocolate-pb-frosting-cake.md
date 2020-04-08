@@ -52,7 +52,7 @@ made the frosting while the cake was baking.  It's a great use for our cake stan
 ![Chocolate cake](/assets/images/chocpbcake1.jpg)
 
 - in mixer with paddle, cream butters and scrape down bowl
-- add powdered sugar on cup at a time, alternate the cream
+- add powdered sugar 1 cup at a time, alternate the cream
 - add vanilla
 - when well mixed, whip on medium to high for 2-3m until frosting is light and fluffy
 
