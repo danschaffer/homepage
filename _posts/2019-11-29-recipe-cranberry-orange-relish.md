@@ -1,7 +1,7 @@
 ---
 title:  "Thanksgiving Cranberry Orange Relish"
 date:   2019-11-29 13:00:00 -0400
-tags: Recipes
+tags: [Recipes,Sides]
 layout: post
 image: /images/cranberryrelish2.jpg
 ---

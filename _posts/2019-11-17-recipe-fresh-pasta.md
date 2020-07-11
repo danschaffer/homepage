@@ -3,7 +3,7 @@ title:  "Making fresh pasta"
 date:   2019-11-17 21:00:00 -0400
 layout: post
 image: /images/freshpasta7.jpg
-tags: Recipes
+tags: [Recipes,Entrees]
 ---
 
 Making fresh pasta is fairly labor intensive but cooking right after

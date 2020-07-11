@@ -1,7 +1,7 @@
 ---
 title:  "Cinnamon buns"
 date:   2020-04-04 16:00:00 -0400
-tags: Recipes
+tags: [Recipes,Breakfasts]
 layout: post
 image: /images/cinnamonbuns.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Sourdough pizza dough"
 date:   2020-01-12 18:00:00 -0400
-tags: Recipes
+tags: [Recipes,Entrees,Sourdough]
 layout: post
 image: /images/sourdoughpizza.jpg
 ---

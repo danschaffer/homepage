@@ -1,7 +1,7 @@
 ---
 title:  "Sourdough crackers"
 date:   2020-01-26 19:00:00 -0400
-tags: Recipes
+tags: [Recipes,Sourdough,Snacks]
 layout: post
 image: /images/sourdough-crackers.jpg
 ---

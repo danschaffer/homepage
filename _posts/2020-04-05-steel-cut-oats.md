@@ -1,7 +1,7 @@
 ---
 title:  "Steel cut oats"
-date:   2020-04-05 9:00:00 -0400
-tags: Recipes
+date:  2020-04-05 9:00:00 -0400
+tags: [Recipes,Breakfasts]
 layout: post
 image: /images/steelcutoats.jpg
 ---

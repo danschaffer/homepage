@@ -1,7 +1,7 @@
 ---
 title:  "Creme Brulee"
 date:   2020-01-01 12:30:00 -0400
-tags: Recipes
+tags: [Recipes,Desserts]
 layout: post
 image: /images/cremebrulee.jpg
 ---
