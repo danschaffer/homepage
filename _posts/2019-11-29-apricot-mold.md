@@ -1,10 +1,10 @@
 ---
 title:  "Thanksgiving Apricot Mold"
 date:   2019-11-29 17:00:00 -0400
-categories: recipes
+tags: Recipes
+layout: post
+image: /images/apricotmold.jpg
 ---
-![Cranberry Orange Relish](/assets/images/apricotmold.jpg)
-
 The apricot mold is another thanksgiving favorite.  The sour cream gives it a creaminess and the peaches or apricots gives it a fruity.  It's a nice combination with with the turkey and stuffing.  You will need a special mold and it is a bit difficult to successfully unmold.  When you are confident it is solid you can run a knife around the edge of the mold and soak the mold in warm water for like 15 seconds.  
 
 I found apricot jello on amazon.  You can always use peach.  Also I can never find apricot nectar so I use mango nectar.  I also use canned peaches since can never find canned apricots.  Be sure to drain the canned fruit since the the mold won't solidify with the extra liquid.  When starting the recipe make sure you fully dissolve both the plain gelatin and the apricot jello.      
@@ -16,7 +16,7 @@ I found apricot jello on amazon.  You can always use peach.  Also I can never fi
 - 1 can sliced peaches drained of liquid (I can never find apricot)
 - 3/4 cup sour cream
 
-![6 cup mold](/assets/images/apricotmold2.jpg)
+![6 cup mold](/images/apricotmold2.jpg)
 ### Equipment
 - a mold about 6 cups capacity
 - cuisinart to chop the canned peaches

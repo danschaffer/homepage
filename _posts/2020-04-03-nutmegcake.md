@@ -1,11 +1,10 @@
 ---
 title:  "Nutmeg cake"
 date:   2020-04-03 18:00:00 -0400
-categories: recipes
+tag: Recipes
+layout: post
+image: /images/nutmegcake.jpg
 ---
-
-![Nutmeg cake](/assets/images/nutmegcake.jpg)
-
 I really like the latest Joanne Chang cookbook Pastry Love. I have all of the other Flour and Joanne Chang cookbooks. The pictures are really great and
 there are so many interesting recipes. I made the cake in honor of our new Syrian hamster but turned out the kids did not really like the spicy flavor.
 I really liked the cake.  I used homeade yogurt instead of the creme fraiche.  The yogurt works since is tangy.  Can also just use sour cream The cake probably did not need the frosting at all but adds a little sweetness.  Here is the recipe for Syrian nutmeg cake.

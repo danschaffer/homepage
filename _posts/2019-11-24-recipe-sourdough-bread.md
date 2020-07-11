@@ -1,10 +1,10 @@
 ---
 title:  "basic sourdough bread"
 date:   2019-11-24 12:00:00 -0400
-categories: recipes
+tags: Recipes
+layout: post
+image: /images/bread3.jpg
 ---
-![finished bread](/assets/images/bread3.jpg)
-
 For about 4 years I have been maintaining a sourdough starter.  I have kept the starter in a jar in the fridge.  Every week or two I make something with the starter using up about a third or half of the starter.  I replenish the starter by adding equal parts flour and water  leaving out the starter for a few hours to get bubbly.  When the starter looks good and I am not going to use I move it to the fridge.  Bread is a common use of the starter but I also make pretzels, rolls, biscuits, even crackers with the sourdough.  
 
 For the bread the night before making I take about 100g of the starter mixing with 80g flour, 100g water cover with plastic wrap in a bowl. I think the initial dough is called poolish.   The next morning I mix the remaining ingredients and knead the dough by hand for about 10 minutes.  
@@ -36,7 +36,7 @@ Should let the bread cool for about 30 minutes before cutting.  I usually keep t
 - stir with wooden spoon until mixed
 - cover with plastic wrap and leave overnight on counter
 
-![starter and poolish](/assets/images/bread1.jpg)
+![starter and poolish](/images/bread1.jpg)
 
 
 ##### Knead dough
@@ -63,7 +63,7 @@ Should let the bread cool for about 30 minutes before cutting.  I usually keep t
 - place dough on baking sheet
 - cover with wrap, can oil wrap to avoid sticking
 
-![dough rising](/assets/images/bread2.jpg)
+![dough rising](/images/bread2.jpg)
 
 ##### Baking
 - preheat oven to 425 when dough has almost risen

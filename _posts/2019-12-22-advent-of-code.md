@@ -1,7 +1,9 @@
 ---
 title:  "AOC 2019"
 date:   2019-12-22 09:00:00 -0400
-categories: programming
+tags: Programming
+layout: post
+image: /images/programming.png
 ---
 During December I have doing the 2019 Advent of Code just for a programming challenge [AdventOfCode](https://adventofcode.com/2019).  Each day a puzzle is unlocked with two levels of challenge. The
 puzzles started out fairly easy and some are fairly difficult. I have

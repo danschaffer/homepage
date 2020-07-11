@@ -1,7 +1,9 @@
 ---
 title:  "Cornbread"
 date:   2020-04-13 18:00:00 -0400
-categories: recipes
+tags: Recipes
+layout: post
+image: /images/cornbread.png
 ---
 
 Found this online but really liked the proportions.  Was nice and moist and not too sweet.  We made
@@ -12,7 +14,6 @@ we have available.  I prefer a finer ground to make bread smoother but coarse ma
 good.  I think the honey adds nice sweetness without using white sugar.  I usually bake in a bread loaf pan
 but you could also make in muffin tin just watch the looking time since probably finishes earlier.  If you
 wish can make spicy by adding some jalapenos or pickled jalapeno peppers.
-<!--![Cornbread](/assets/images/cornbread.jpg) -->
 
 ### Ingredients
 - 1 cup, 120g cornmeal

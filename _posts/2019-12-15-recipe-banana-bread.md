@@ -1,10 +1,10 @@
 ---
 title:  "Banana Bread"
 date:   2019-12-15 18:00:00 -0400
-categories: recipes
+tags: Recipes
+layout: post
+image: /images/bananabread.jpg
 ---
-![Banana Bread](/assets/images/bananabread.jpg)
-
 My favorite banana bread recipe is from the Joanne Chang first Flour
 cookbook.  I use less sugar and just add a pinch of cinnamon.  I use about 3-4 very ripe bananas.  In the freezer I keep old bananas then
 microwave pour off water and stir until bananas are mixed and almost a paste.  Be careful to whisk or sift the flour well to avoid bad tasting
@@ -39,7 +39,7 @@ day or two after toasting and spreading peanut butter over a slice.
 - mix with spatula until there are no flour streaks
 - scrape mixture into buttered bread pan
 
-![Banana Bread Mixture](/assets/images/bananabread2.jpg)
+![Banana Bread Mixture](/images/bananabread2.jpg)
 
 ##### Bake in oven
 - optional: add toasted walnuts or sprinkle some sugar on top

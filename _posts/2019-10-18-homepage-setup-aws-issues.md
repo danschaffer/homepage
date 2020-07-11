@@ -1,9 +1,10 @@
 ---
-title:  "AWS DNS Issues"
+title:  AWS DNS Issues
 date:   2019-10-18 10:00:00 -0400
-categories: aws
+layout: post
+image: /images/aws.png
+tags: AWS
 ---
-
 I use Amazon Web Services entirely to host the web site on [https://danschaffer.info](https://danschaffer.info).
 I have owned the domain danschaffer.info for a while using the amazon domain registration.  A typical .info domain
 costs about $12 per year.  I previously setup a hello world web page on danschaffer.info using a s3 bucket and

@@ -1,10 +1,10 @@
 ---
 title:  "Chocolate Chip Cookies"
 date:   2020-02-01 12:00:00 -0400
-categories: recipes
+tags: Recipes
+layout: post
+image: /images/chocolate-chip-cookies.jpg
 ---
-![Chocolate Chip Cookies](/assets/images/chocolate-chip-cookies.jpg)
-
 One of my favorite cooking youtube channels is Whats Eating Dan? from Americas Test Kitchen.  I like his episode on chocolate chip cookies.  I learned the chocolate chip (tollhouse) cookie was invented in Massachusetts.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/oCt3xhKCX1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -40,25 +40,25 @@ I really like the chewiness of this recipe and the toffee taste of the brown but
 - heat the butter in a saucepan
 - butter will bubble as moisture evaporates, heat until starts turning brown, swirl or stir pan continually, should take 1 to 3 minutes
 
-![Browning butter](/assets/images/chocolate-chip-cookies-1.jpg)
+![Browning butter](/images/chocolate-chip-cookies-1.jpg)
 
 - add both sugars, salt, vanilla to bowl with butter, whisk a bit until cools a bit before adding eggs
 - whisk in eggs until mixed 30s, let rest for 3m, repeat 2 more times (whisk 30s, rest 3m)
 
-![mixing sugars, eggs, brown butter](/assets/images/chocolate-chip-cookies-2.jpg)
+![mixing sugars, eggs, brown butter](/images/chocolate-chip-cookies-2.jpg)
 
 - whisk flour and baking soda in medium bowl
 - mix sugar/butter mixture with flour mixture with wooden spoon until combined
 
-![mixing flour and sugar/butter](/assets/images/chocolate-chip-cookies-3.jpg)
+![mixing flour and sugar/butter](/images/chocolate-chip-cookies-3.jpg)
 
 - stir in chocolate chips
 
-![cookie dough](/assets/images/chocolate-chip-cookies-4.jpg)
+![cookie dough](/images/chocolate-chip-cookies-4.jpg)
 
 - scoop about 3T of dough into cookie sheet with parchment paper or silplat silicone mat
 
-![scooping cookies](/assets/images/chocolate-chip-cookies-5.jpg)
+![scooping cookies](/images/chocolate-chip-cookies-5.jpg)
 
 - bake cookies 1 tray at a time for about 10-14 minutes until the edges are starting to brown and the center is still soft
 - can freeze any dough as 3T scoops and cook at a later time

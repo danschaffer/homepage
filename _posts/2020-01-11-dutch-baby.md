@@ -1,10 +1,10 @@
 ---
 title:  "Dutch Baby"
 date:   2020-01-11 18:00:00 -0400
-categories: recipes
+tags: Recipes
+layout: post
+image: /images/dutchbaby.jpg
 ---
-![Dutch Baby](/assets/images/dutchbaby.jpg)
-
 A Dutch Baby is a puffy omelette baked in the oven in a skillet.  The dutch baby is also known as tahitian omelette or german pancake. We enjoy the dutch baby for dinner sprinkled with powdered sugar and topped
 with fruit preserves.  When out of the oven the pancake is very puffy
 but quickly deflates so try to serve immediately after taking out of the oven.
@@ -26,7 +26,7 @@ The recipe is from the New York time online. Here is a nice video with lovely mu
 - fruit preserves from serving
 
 ### Steps
-![Blend most ingredients for Dutch Baby](/assets/images/dutchbaby1.jpg)
+![Blend most ingredients for Dutch Baby](/images/dutchbaby1.jpg)
 
 - preheat oven to 425 F
 - mix eggs, flour, milk, sugar, nutmeg in a blender

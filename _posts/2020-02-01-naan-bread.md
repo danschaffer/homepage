@@ -1,11 +1,10 @@
 ---
 title:  "Naan bread"
 date:   2020-02-01 18:00:00 -0400
-categories: recipes
+tags: Recipes
+layout: post
+image: /images/naan-bread.jpg
 ---
-
-![Naan bread](/assets/images/naan-bread.jpg)
-
 Naan bread is an Indian flat bread.  It can be made in a tandori oven but can just be made in a skillet if you don't have a tandori oven.  
 
 The dough is similar to pizza dough as it's a simple yeast dough.  It can be made softier by adding yogurt and egg.  
@@ -28,7 +27,7 @@ The dough is similar to pizza dough as it's a simple yeast dough.  It can be mad
 - add 1/2 cup flour at a time until comes together
 - knead for 3m keep adding flour if sticky
 
-![Naan bread dough](/assets/images/naan-bread-1.jpg)
+![Naan bread dough](/images/naan-bread-1.jpg)
 
 - cover dough for about 1-2h until size doubles
 - flatten dough into disc and cut into 8 pieces

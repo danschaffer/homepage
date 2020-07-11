@@ -1,17 +1,17 @@
 ---
 title:  "Thanksgiving Cranberry Orange Relish"
 date:   2019-11-29 13:00:00 -0400
-categories: recipes
+tags: Recipes
+layout: post
+image: /images/cranberryrelish2.jpg
 ---
-![Cranberry Orange Relish](/assets/images/cranberryrelish2.jpg)
-
 The cranberry orange relish is a quick and tasty alternative to cranberry sauce.  I like the orange flavor and tend to prefer a tarter
 version.  You may keep adding sugar until it tastes right.  Just when
 it starts slightly sweet I usually stop adding sugar.  I usually make 2 days before thanksgiving to let the flavors combine and mellow.  Also it's nice to get this out of the way.    
 
 2 packages of cranberries does a lot of relish.  You can easily half the recipe.
 
-![Cranberry Orange Ingredients](/assets/images/cranberryrelish1.jpg)
+![Cranberry Orange Ingredients](/images/cranberryrelish1.jpg)
 
 ### Ingredients
 - 2 package of fresh cranberries

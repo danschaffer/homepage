@@ -1,11 +1,10 @@
 ---
 title:  "Raspberry rhubarb muffins"
 date:   2020-04-18 10:00:00 -0400
-categories: recipes
+tags: Recipes
+layout: post
+image: /images/raspberry-rhubarb-muffins.jpg
 ---
-
-![Strawberry rhubarb muffins](/assets/images/raspberry-rhubarb-muffins.jpg)
-
 The strawberry and rhubarb muffins recipe is from the first Flour cookbook.  Is a nice recipe always comes out well. The muffins are
 not too sweet.  You can always add additional sugar on top if you prefer sweeter.  I find it easier to use paper muffin/cupcake liner then
 you do not have to worry about sticking and is easier to pop out.  Be careful to loosen to muffin tops before removing muffins.  I find it

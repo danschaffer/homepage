@@ -1,10 +1,10 @@
 ---
 title:  "Creme Brulee"
 date:   2020-01-01 12:30:00 -0400
-categories: recipes
+tags: Recipes
+layout: post
+image: /images/cremebrulee.jpg
 ---
-![Creme Brulee](/assets/images/cremebrulee.jpg)
-
 Making creme brulee is definitely a finicky recipe requiring many gadgets. Assuming you have the stuff the recipe is fun and not too difficult. The main gadgets are the mini gas torch, mini ramekins, and of course a mini ramekin water bath metal holder (not so necessary). Before making the creme brulee on New Years Eve I checked the brulee torch and of course it was low on fuel.  
 
 I managed to track down the mini gas canister (I usually lose the flammable gas and buy a new one). I actually overfilled the torch past the line saying don't fill past this line.  When turning on the torch a huge 2 foot orange flame came out but keeping it on burned off enough fuel to return back to the normal blue flame. The ramekins are useful to have to snacks and water bath insert is not at all necessary but keeps the ramekins flat.
@@ -40,7 +40,7 @@ Torching the creme brulee
 ### Steps
 
 #### Cook custard
-![Custard mixture](/assets/images/cremebrulee1.jpg)
+![Custard mixture](/images/cremebrulee1.jpg)
 - heat oven to 300
 - scrape seeds from vanilla pod, use both pod and seeds
 - combine 1 cup cream, granulated sugar, salt, vanilla seeds and pod into sauce pan
@@ -48,7 +48,7 @@ Torching the creme brulee
 - when boils, remove from burner, cover for 15m to let steep
 
 #### Strain and pour into ramekins in water bath
-![ramekins in pan](/assets/images/cremebrulee2.jpg)
+![ramekins in pan](/images/cremebrulee2.jpg)
 - add remaining 1 cup cream
 - whisk 1/2 cup of the cream into yolks until evenly colored and totally combines
 - strain to remove solids
@@ -58,7 +58,7 @@ Torching the creme brulee
 - remove ramekins from water bath, let cool to room temperature
 
 #### Chill ramekins then torch top with sugar
-![torched creme brulee](/assets/images/cremebrulee3.jpg)
+![torched creme brulee](/images/cremebrulee3.jpg)
 - chill in fridge until set (about 4 hours)
 - to each ramekin add 1 1/2 to 2 tsp demerra sugar
 - using brulee torch or broiler melt sugar until golden brown

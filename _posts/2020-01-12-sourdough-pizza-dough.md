@@ -1,10 +1,10 @@
 ---
 title:  "Sourdough pizza dough"
 date:   2020-01-12 18:00:00 -0400
-categories: recipes
+tags: Recipes
+layout: post
+image: /images/sourdoughpizza.jpg
 ---
-![Pizza](/assets/images/sourdoughpizza.jpg)
-
 I keep a sourdough starter in the fridge and feed it every 1 or 2 weeks.  I often make pretzels, bread but pizza dough is a good use.  I add yeast but the sourdough adds a nice flavor to the dough.
 
 The pizza dough can be made by adding most of the ingredients into a stand mixer with the
@@ -34,7 +34,7 @@ and tomato sauce.
 #### Make dough
 dough before rising
 
-![dough before rising](/assets/images/sourdoughpizza1.jpg)
+![dough before rising](/images/sourdoughpizza1.jpg)
 
 - mix water and yeast in mixer bowl, mix with dough hook let sit for 5-10m
 - add sourdough, flour, salt
@@ -47,7 +47,7 @@ dough before rising
 
 dough after rising
 
-![dough after rising](/assets/images/sourdoughpizza2.jpg)
+![dough after rising](/images/sourdoughpizza2.jpg)
 
 #### Bake pizza
 - punch down risen down
@@ -58,7 +58,7 @@ dough after rising
 
 dough on peel
 
-![dough on peel](/assets/images/sourdoughpizza3.jpg)
+![dough on peel](/images/sourdoughpizza3.jpg)
 
 - add tomato sauce, toppings
 - can use pizza stone and pizza paddle
@@ -66,12 +66,12 @@ dough on peel
 
 cheese pizza
 
-![cheese pizza](/assets/images/sourdoughpizza4.jpg)
+![cheese pizza](/images/sourdoughpizza4.jpg)
 
 pineapple gouda arugula
 
-![pineapple gouda argula pizza](/assets/images/sourdoughpizza5.jpg)
+![pineapple gouda argula pizza](/images/sourdoughpizza5.jpg)
 
 squash goat cheese pizza
 
-![squash goat cheese pizza](/assets/images/sourdoughpizza.jpg)
+![squash goat cheese pizza](/images/sourdoughpizza.jpg)

@@ -1,11 +1,10 @@
 ---
 title:  "Strawberry rhubarb pie"
 date:   2020-04-18 16:00:00 -0400
-categories: recipes
+tags: Recipes
+layout: post
+image: /images/strawberry-rhubarb-pie.jpg
 ---
-
-![Strawberry rhubarb pie](/assets/images/strawberry-rhubarb-pie.jpg)
-
 The rhubarb and strawberry in the pie is a really nice combination in the spring when strawberries and good
 and rhubarb becomes available.  You can adjust the rhubarb amount depending on how much you can get but I prefer
 half rhubarb or maybe 1/3 rhubarb if is hard to find or expensive.  The rhubarb adds a tart flavor so you can adjust how much
@@ -36,7 +35,7 @@ good for a few days if you last that long.
 
 ### Steps
 #### dough
-![pie crust](/assets/images/strawberry-rhubarb-pie1.jpg)
+![pie crust](/images/strawberry-rhubarb-pie1.jpg)
 
 - in large bowl whisk flour, salt, sugar
 - freeze butter for 15-20m, grate with box grater over the flour mixutre
@@ -49,7 +48,7 @@ good for a few days if you last that long.
 - place both on small plate for several hour, I usually make the day before leave in fridge
 
 #### assemble pie
-![strawberry rhubarb mixture](/assets/images/strawberry-rhubarb-pie2.jpg)
+![strawberry rhubarb mixture](/images/strawberry-rhubarb-pie2.jpg)
 
 - preheat oven to 400 degrees F
 - in bowl microwave rhubarb with 2T sugar for 60-90s
@@ -58,7 +57,7 @@ good for a few days if you last that long.
 - add tapioca, lemon zest, lemon juice
 - dust with flour, roll out larger disc of dough to fit a 9 inch pie plate
 
-![strawberry rhubarb mixture](/assets/images/strawberry-rhubarb-pie3.jpg)
+![strawberry rhubarb mixture](/images/strawberry-rhubarb-pie3.jpg)
 
 - place dough on bottom on pie plate
 - add fruit mixture
@@ -67,7 +66,7 @@ good for a few days if you last that long.
 - may optionally brush egg with bit of water for shinier top
 - sprink another 1-2 T sugar top top of pie
 - cut a few vents on pie top
-![strawberry rhubarb mixture](/assets/images/strawberry-rhubarb-pie4.jpg)
+![strawberry rhubarb mixture](/images/strawberry-rhubarb-pie4.jpg)
 - place pie on cookie sheet (pie will bubble) in oven
 - lower temp to 350 immediately, will gradually lower to 350
 - bake about 60m until top is brown and filling is bubbling
