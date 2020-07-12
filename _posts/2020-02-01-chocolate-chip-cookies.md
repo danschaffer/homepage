@@ -1,7 +1,7 @@
 ---
 title:  "Chocolate Chip Cookies"
 date:   2020-02-01 12:00:00 -0400
-tags: [Recipes,Desserts]
+tags: [recipes,desserts]
 layout: post
 image: /images/chocolate-chip-cookies.jpg
 ---

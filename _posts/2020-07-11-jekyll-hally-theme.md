@@ -1,7 +1,7 @@
 ---
 title:  Hally Jekyll Theme
 date:   2020-04-20 18:00:00 -0400
-tags: Jekyll
+tags: jekyll
 layout: post
 image: /images/jekyll.png
 ---

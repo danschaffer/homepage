@@ -1,7 +1,7 @@
 ---
 title:  "Kimba tail workout"
 date:   2019-11-30 08:30:00 -0400
-tags: Kimba
+tags: kimba
 layout: post
 image: /images/kimba-tail.jpg
 ---

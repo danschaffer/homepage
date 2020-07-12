@@ -1,7 +1,7 @@
 ---
 title:  "Raspberry rhubarb muffins"
 date:   2020-04-18 10:00:00 -0400
-tags: [Recipes,Breakfasts]
+tags: [recipes,breakfasts]
 layout: post
 image: /images/raspberry-rhubarb-muffins.jpg
 ---

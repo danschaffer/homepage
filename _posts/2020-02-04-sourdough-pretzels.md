@@ -1,7 +1,7 @@
 ---
 title:  "Sourdough pretzels"
 date:   2020-02-03 18:00:00 -0400
-tags: [Recipes,Sourdough]
+tags: [recipes,sourdough]
 layout: post
 image: /images/sourdough-pretzels.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Pumpkin and Prailine Pie"
 date:   2019-11-29 17:00:00 -0400
-tags: [Recipes,Desserts]
+tags: [recipes,desserts]
 layout: post
 image: /images/prailine7.jpg
 ---

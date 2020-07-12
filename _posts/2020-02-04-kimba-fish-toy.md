@@ -1,7 +1,7 @@
 ---
 title:  "Kimba fish toy"
 date:   2020-02-03 20:30:00 -0400
-tag: Kimba
+tag: kimba
 layout: post
 image: /images/kimba-fishtoy.jpg
 ---

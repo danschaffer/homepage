@@ -3,7 +3,7 @@ layout: post
 title:  Home Page first cut
 date:   2019-10-04 09:22:52 -0400
 image:  '/images/jekyll.png'
-tags:   Jekyll
+tags:   jekyll
 ---
 This is my first post.  I decided to use [jekyll](https://jekyllrb.com/docs/home) to build my home page.  The ability to create
 a static web page and quickly add content in markdown appeals to me.  I hope to host the page in AWS using s3 and create a ci/cd

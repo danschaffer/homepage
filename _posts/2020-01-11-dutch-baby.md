@@ -1,7 +1,7 @@
 ---
 title:  "Dutch Baby"
 date:   2020-01-11 18:00:00 -0400
-tags: [Recipes,Entrees]
+tags: [recipes,entrees]
 layout: post
 image: /images/dutchbaby.jpg
 ---

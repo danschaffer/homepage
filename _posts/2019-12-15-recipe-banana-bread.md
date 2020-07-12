@@ -1,7 +1,7 @@
 ---
 title:  "Banana Bread"
 date:   2019-12-15 18:00:00 -0400
-tags: [Recipes,Breads]
+tags: [recipes,breads]
 layout: post
 image: /images/bananabread.jpg
 ---

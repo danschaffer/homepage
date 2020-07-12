@@ -3,7 +3,7 @@ title:  Jekyll themes
 date:   2019-11-09 13:30:00 -0400
 layout: post
 image: /images/jekyll.png
-tags: Jekyll
+tags: jekyll
 ---
 I wanted to configure a jekyll theme besides minima to get more functionality.  I found most themes did not support jekyll 4.0 yet so I just switched down the jekyll 3.3 and most custom themes started working.
 First I edited the Gemfile installing alembic and downgrading jenkins.

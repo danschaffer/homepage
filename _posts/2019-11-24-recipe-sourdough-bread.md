@@ -1,7 +1,7 @@
 ---
 title:  "basic sourdough bread"
 date:   2019-11-24 12:00:00 -0400
-tags: [Recipes,Breads]
+tags: [recipes,breads]
 layout: post
 image: /images/bread3.jpg
 ---

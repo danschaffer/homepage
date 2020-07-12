@@ -1,7 +1,7 @@
 ---
 title:  "Cornbread"
 date:   2020-04-13 18:00:00 -0400
-tags: [Recipes,Breads]
+tags: [recipes,breads]
 layout: post
 image: /images/cornbread.png
 ---

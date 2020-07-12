@@ -1,7 +1,7 @@
 ---
 title:  "AOC 2019"
 date:   2019-12-22 09:00:00 -0400
-tags: Programming
+tags: programming
 layout: post
 image: /images/programming.png
 ---

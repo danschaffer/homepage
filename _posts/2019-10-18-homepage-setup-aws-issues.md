@@ -3,7 +3,7 @@ title:  AWS DNS Issues
 date:   2019-10-18 10:00:00 -0400
 layout: post
 image: /images/aws.png
-tags: AWS
+tags: aws
 ---
 I use Amazon Web Services entirely to host the web site on [https://danschaffer.info](https://danschaffer.info).
 I have owned the domain danschaffer.info for a while using the amazon domain registration.  A typical .info domain

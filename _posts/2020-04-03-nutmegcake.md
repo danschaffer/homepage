@@ -1,7 +1,7 @@
 ---
 title:  "Nutmeg cake"
 date:   2020-04-03 18:00:00 -0400
-tag: [Recipes,Desserts]
+tag: [recipes,desserts]
 layout: post
 image: /images/nutmegcake.jpg
 ---

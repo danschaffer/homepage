@@ -1,7 +1,7 @@
 ---
 title:  Chocolate Peanut Butter Frosting Cake
 date:   2020-04-06 18:00:00 -0400
-tags: [Recipes,Desserts]
+tags: [recipes,desserts]
 layout: post
 image: /images/chocpbcake.jpg
 ---

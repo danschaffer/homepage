@@ -1,7 +1,7 @@
 ---
 title:  "Strawberry rhubarb pie"
 date:   2020-04-18 16:00:00 -0400
-tags: [Recipes,Desserts]
+tags: [recipes,desserts]
 layout: post
 image: /images/strawberry-rhubarb-pie.jpg
 ---

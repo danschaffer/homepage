@@ -1,21 +1,11 @@
 ---
 title:  Yellow Cake
 date:   2020-07-11 18:00:00 -0400
-tags: [Recipes,Desserts]
+tags: [recipes,desserts]
 layout: post
 image: /images/yellowcake1.jpg
 ---
-I like the really quick and easy cake recipe.  You can just toss the ingredients in a cuisinart, blender, or mixer and the must put in a
-baking dish and bake.  It takes longer to preheat the oven than to
-prepare the batter.  The recipe fits well in a small cake pan we have
-6 inches across.  For a regular size cake pan probably doubling works
-better.  I have used regular milk, butter milk, or cream.  They all
-work ok but the cream is a richer cake.  The cake is great in summer
-when you have some whipped cream and fresh fruit for toppings.  I like
-to add some lemon zest and juice to the batter to give a little more
-citrus flavor.  
-
-The recipe is my from sister's friend website [Lisi's Luscious Desserts](https://lldesserts.com/yellow-cake/).
+I like the really quick and easy cake recipe.  You can just toss the ingredients in a cuisinart, blender, or mixer.  Then just put in a baking dish and bake.  It takes longer to preheat the oven than to prepare the batter.  The recipe fits well in a small cake pan we have 6 inches across.  For a regular size cake pan probably doubling works better.  I have used regular milk, butter milk, or cream.  They all work ok but the cream is a richer cake.  The cake is great in summer when you have some whipped cream and fresh fruit for toppings.  I like to add some lemon zest and juice to the batter to give a little more citrus flavor.  The recipe is my from sister's friend website [Lisi's Luscious Desserts](https://lldesserts.com/yellow-cake/).
 
 ### Ingredients
 - 3/4c + 2T sugar, 6.125 ounces, I prefer less sweet 5-6 ounces

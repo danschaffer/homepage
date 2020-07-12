@@ -1,7 +1,7 @@
 ---
 title:  "Naan bread"
 date:   2020-02-01 18:00:00 -0400
-tags: [Recipes,Breads]
+tags: [recipes,breads]
 layout: post
 image: /images/naan-bread.jpg
 ---
