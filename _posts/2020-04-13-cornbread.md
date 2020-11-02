@@ -21,6 +21,7 @@ wish can make spicy by adding some jalapenos or pickled jalapeno peppers.
 - 1 t, baking powder
 - 1/2 t, baking soda
 - 1/2 t, salt
+- 1/2 c, (1 stick) unsalted butter, melted and mostly cooled
 - 1/2 cup, (67g) brown sugar (light or dark)
 - 2T honey
 - 1 large egg
@@ -28,11 +29,11 @@ wish can make spicy by adding some jalapenos or pickled jalapeno peppers.
 
 ### Steps
 - preheat oven to 375
-- butter and lightly flour 8 or 9 inch bread pan
+- butter and lightly flour 8 or 9 inch square pan
 - in large bowl, whisk cornmeal, flour, baking powder, baking soda, salt
 - in different bowl, mix melted butter, brown sugar, honey until completed smooth and thick
 - add egg to wet ingredients, mix until combined
 - pour wet ingredients into dry and mix with wooden spoon until combined, try to avoid overmixing
 - pour batter into baking pan
 - bake for 25-30m until side are brown and center cooked through, make sure a toothpick comes out clean from the center
-- allow to cool slightly before slicing and serving
+- allow to cool slightly before slicing and serving, can slice into squares
