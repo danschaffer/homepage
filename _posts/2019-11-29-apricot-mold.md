@@ -16,7 +16,6 @@ I found apricot jello on amazon.  You can always use peach.  Also I can never fi
 - 1 can sliced peaches drained of liquid (I can never find apricot)
 - 3/4 cup sour cream
 
-![6 cup mold](/images/apricotmold2.jpg)
 ### Equipment
 - a mold about 6 cups capacity
 - cuisinart to chop the canned peaches
