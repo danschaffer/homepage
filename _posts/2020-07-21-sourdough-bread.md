@@ -14,17 +14,17 @@ video on youtube
 
 ### Ingredients
 - 300g water
-- 60g starter
-- 310g all purpose flour (or 390g all purpose flour if not using whole wheat flour)
-- 80g whole wheat flour
+- 75g starter
+- 420g all purpose flour (I usually use King Arthur all purpose, or special)
 - 8g fine sea salt
 
 ### Steps
-- add 60g starter to a large bowl
 - add 300g room temperature water to bowl
+- add 75g starter to bowl
 - mix and break up starter with hand in bowl until starter mostly dissolved
-- add flours to mixture
+- add flour to mixture
 - with hand combine flour with water for 3-4 minutes until all of the flour is worked in to a shaggy mass
+- cover with plastic wrap
 - let sit for 30-60m
 - add 8g salt and combine with dough, can wet hand
 - leave dough for bulk fermentation
@@ -32,6 +32,7 @@ video on youtube
 ![dough after bulk fermentation](/images/sourdoughbread2.jpg)
 
 - each 30-45 minutes do stretch and fold each 30m for total of of 3-4 hours
+- in summer may be 3 hours and in winter can be 6-8 hours
 - for preshape fold each side into middle, then fold each corner
 
 ![dough resting before shaping](/images/sourdoughbread3.jpg)
@@ -58,7 +59,8 @@ video on youtube
 
 ![dough in dutch oven](/images/sourdoughbread7.jpg)
 
-- bake for 20m with cover on
+- bake for 20m with cover on dutch oven
 - remove cover bake another 15-20m, can check temp ready when about 200 F
+- remove from dutch oven and let cool on a wire rack for about 15m before eating
 
 ![bread after baking](/images/sourdoughbread8.jpg)

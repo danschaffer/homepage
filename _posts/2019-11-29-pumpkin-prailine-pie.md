@@ -56,20 +56,24 @@ I like to put one layer of the mousse in the crust then add a layer of prailine 
 
 #### pie filling
 ![pie crust and filling](/images/prailine3.jpg)
+- can mix the brown sugar, ginger, cinnamon, nutmeg, salt in a bowl and set aside
 - separate the 2 egg white and yolks
 - combine egg yolks and milk in sauce pan
 - beat until well combined
 - heat sauce pan on low heat, add gelatin
-- continually whisk for 5m until gelatin is fully dissolved
-- can strain to remove any gelatin globs
+- continually whisk for 5m until gelatin is fully dissolved, make sure is dissolved and looks smooth
+- can strain to remove any gelatin globs if you see globs
+- add the brown sugar, nutmeg, ginger, cinnamon, salt to the milk, egg mixture, cook another 1 minute on low
+- remove pan from heat and stir in the canned pumpkin
 - cool until firm 1h, can cool overnight
 
-#### make mouuse and final assembly
+#### make mousse and final assembly
 ![mousse parts](/images/prailine4.jpg)
 - whisk the egg whites in mixer until almost set
 - add 1/2c sugar to egg white and mix until firm and set
 - set egg white aside
 - clean bowl and whip cream until is solid
+
 ![folding mousse](/images/prailine5.jpg)
 - fold in whites into the pumpkin filling in a large bowl until combined
 - fold in whipped cream until combined and is a mousse consistency
