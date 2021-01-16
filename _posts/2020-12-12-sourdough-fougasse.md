@@ -13,7 +13,7 @@ Most of the time is just letting the dough rest and rise. I halved the recipe ju
 you can add replace about 100g of the flour with whole wheat.
 
 video on youtube
-<iframe width="420" height="315" src="https://www.youtube.com/embed?v=ksAARXa58YA" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ksAARXa58YA" frameborder="0" allowfullscreen></iframe>
 
 ### Ingredients
 - 480g all purpose flour
