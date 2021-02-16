@@ -3,7 +3,7 @@ title:  "Sourdough Starter"
 date:   2021-01-22 18:00:00 -0400
 tags: [recipes,sourdough]
 layout: post
-image: /images/sourdoughstarter.png
+image: /images/sourdoughstarter.jpg
 ---
 
 I have been reading the Sourdough book by Sarah Owens.  She describes creating a sourdough by creating a mother with water, sugar, honey, and raisins for about a week before adding with flour and water to create the sourdough.  I feel like my other sourdough has been a little sluggish probably because it is cooler and drier in the kitchen for winter.  I want to see if the new starter is more aggressive than the old one.  The other starter was made just from mixing equal parts water and flour for several days. I am hoping the new starter doubles after feeding and floats in water.
