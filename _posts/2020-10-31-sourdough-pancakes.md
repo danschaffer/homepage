@@ -1,7 +1,7 @@
 ---
 title:  "Sourdough pancakes"
 date:   2020-10-31 12:00:00 -0400
-tags: [recipes,sourdough,breakfast]
+tags: [recipes,sourdough,breakfasts]
 layout: post
 image: /images/pancakes.jpg
 ---
