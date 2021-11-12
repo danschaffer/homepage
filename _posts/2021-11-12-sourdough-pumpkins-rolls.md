@@ -3,7 +3,7 @@ title:  "Sourdough Pumpkin Dinner Rolls"
 date:   2021-11-12 12:00:00 -0400
 tags: [recipes,sourdough]
 layout: post
-image: /images/sourdough-pumpkin-rolls.png
+image: /images/pumpkindinnerrolls.png
 ---
 
 Like the idea of a sourdough basic dinner roll with some pumpkin purree for fall flavors.  The rolls are soft brushing with butter and sesame seeds add a nice look.
