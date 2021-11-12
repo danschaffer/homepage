@@ -1,5 +1,5 @@
 ---
-title:  "Sourdough Cardamom Rools"
+title:  "Sourdough Cardamom Rolls"
 date:   2021-11-12 12:00:00 -0400
 tags: [recipes,sourdough]
 layout: post
