@@ -23,7 +23,7 @@ bananas for making smoothies these days.  The recipe has nice fall spice flavors
 - 3 large eggs
 
 #### Steps
-- preheat oven to 325g
+- preheat oven to 325F
 - in bowl whisk dry ingedients, flour, baking powder, baking soda, cinnamon, nutmeg, cloves
 - in larger bowl whisk pumpkin, oil, sugar, salt
 - when uniform add whisk in eggs one at a time until combined
