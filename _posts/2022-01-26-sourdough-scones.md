@@ -7,7 +7,7 @@ image: /images/sourdoughscones.jpg
 ---
 
 I want to find a good recipe for sourdough discard scones.  I like the idea of blueberries and lemon.  Generally frozen berries seems better since it's hard to get fresh berries and
-since they're being cooked anyways.  Since it's February I'll use frozen and maybe in the summer try fresh.  The scones came out well.  They were puffy and had good flavor from the sourdough.  I found the glaze to not be necessary and I find it too sweet with all of the sugar.  Glazing half worked out well.  I would like to try other fillings besides blueberries.  Perhaps currants or raisins with some vanilla instead of the lemon.
+since they're being cooked anyways.  Since it's February I'll use frozen and maybe in the summer try fresh.  The scones came out well.  They were puffy and had good flavor from the sourdough.  I found the glaze to not be necessary and I find it too sweet with all of the sugar.  Glazing half worked out well.  I would like to try other fillings besides blueberries.  Perhaps currants or raisins with some vanilla instead of the lemon.  I ended up baking for more like 30-35m at 350 with convection.
 
 #### Ingredients
 - 250g all purpose flour
