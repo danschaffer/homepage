@@ -3,7 +3,7 @@ title:  "Snow Capped Chocolate Pie"
 date:   2022-02-21 13:45:00 -0400
 tags: [recipes,desserts]
 layout: post
-image: /images/snowcappedchocolatepie.jpg
+image: /images/snow-capped-chocolate-pie.png
 ---
 
 
