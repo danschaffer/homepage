@@ -6,11 +6,16 @@
 
 # local development
 
-- to run the page locally run
+- to build the page locally run
 ```
-bundle install
-bundle exec jekyll build
-bundle exec jekyll serve
+docker build -t jekyll .
+docker run jekyll -v $(pwd):/app jekyll
+```
+
+- to run locally
+```
+docker build -t jekyll .
+docker run -p 4000:4000 -v $(pwd):/app jekyll bundle exec jekyll serve --host 0.0.0.0
 ```
 - then browse to or open [https://localhost:4000](https://localhost:4000)
 
@@ -18,4 +23,11 @@ bundle exec jekyll serve
 - for a post create
 - Each entry uses markdown, I find this page useful for [markdown cheatsheet](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml)
 
-# the page is hosted on aws: as [https://danschaffer.info](https://danschaffer.info)
+# hosted
+- the page is hosted on aws: as [https://danschaffer.info](https://danschaffer.info)
+- to sync 
+```
+cd _site
+aws s3 sync . s3://www.danschaffer.info
+aws cloudfront create-invalidation --distribution-id E1IJN3GI590RST --paths "/*"
+```
