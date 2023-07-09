@@ -14,7 +14,7 @@ I added chocolate chips and ripe banana chunks to a few of the pancakes.  The pa
 you cook one side fully and flip only once.  Also I had some strawberry syrup and some maple syrup on hand
 and both were very nice additions.
 
-Got the recipe from this website [Taste of Lizzy T]](https://www.tastesoflizzyt.com/sourdough-pancakes/)
+Got the recipe from this website [Taste of Lizzy T](https://www.tastesoflizzyt.com/sourdough-pancakes/)
 
 ### Ingredients
 - 2 cups, (280g) all purpose flour
