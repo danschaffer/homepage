@@ -1,7 +1,7 @@
 ---
 title:  "Ice Cream Sandwiches"
 date:   2023-07-14 12:30:00 -0400
-tags: [recipes,snacks]
+tags: [recipes,desserts]
 layout: post
 image: /images/icecreamsandwich.jpg
 ---

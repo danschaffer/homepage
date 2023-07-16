@@ -6,7 +6,8 @@ layout: post
 image: /images/peasantbread.jpg
 ---
 
-I like the idea of a simple bread without the fussiness of shaping dough.  Baking the dough is a glass pyrex gets a nice shape avoiding density problems.  I replace some of the water and flour with sourdough.
+I like the idea of a simple bread without the fussiness of shaping dough.  Baking the dough is a glass pyrex gets a nice shape avoiding density problems.  I replace some of the water and flour with sourdough.  I found the round loafs come out a bit weird since the outside does not crisp.  I changed to loaf pans instead.  I am hoping the recipe is easy and flexible enough to use instead of buying store bought bread.  I will try some other variations but so far making this recipe once or twice a week is 
+enough to keep the bread supply going.  I like the suggestion of bread crumbs when gets a few days old.  
 
 
  Found the recipe from this website [https://alexandracooks.com](https://alexandracooks.com/2012/11/07/my-mothers-peasant-bread-the-best-easiest-bread-you-will-ever-make/)
