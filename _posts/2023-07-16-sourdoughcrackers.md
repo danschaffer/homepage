@@ -1,7 +1,7 @@
 ---
 title:  "Sourdough discard crackers"
 date:   2023-07-16 12:30:00 -0400
-tags: [recipes,snacks]
+tags: [recipes,sourdough]
 layout: post
 image: /images/sourdoughcrackers.jpg
 ---
