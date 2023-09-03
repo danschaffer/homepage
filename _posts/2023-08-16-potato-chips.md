@@ -1,5 +1,5 @@
 ---
-title:  "Title"
+title:  "Potato Chips"
 date:   2023-08-16 16:00:00 -0400
 tags: [recipes,snacks]
 layout: post
