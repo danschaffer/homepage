@@ -1,15 +1,15 @@
 ---
 title:  "Sourdough Liege Waffles"
-date:   2023-09-03 09:30:00 -0400
+date:   2023-09-03 08:30:00 -0400
 tags: [recipes,breakfast]
 layout: post
 image: /images/liegewaffles.jpg
 ---
 
-Liege waffles are chewier and more bready than normal waffles.  The dough is not as liquidy and can be picked up. I mix in pearl sugar right before making waffles so they do not dissolve and make a crispy outside.  The waffles come out not very sweet. If making them plain without toppings can add some extra sugar to the dough to add to sweetness. I use sourdough discard to add a little more complexity. If the sourdough is not active I add a little yeast. Allowing the dough to rise overnight in the fridge works well and makes the dough less sticky and easier to handle. I use a normal waffle maker but the pearl sugar makes the waffle maker difficult to clean. I made a blueberry sauce. Also good with strawberries and whipped cream.
+Liege waffles are chewier and breadier than normal waffles.  The dough is not as liquidy and can be formed into balls with your hands. I mix in pearl sugar for a crispy and sweet outer shell. I like how they are not too sweet but you can add some extra sugar to the dough for more sweetness. I use sourdough discard to add a little more complexity. If the sourdough is not active I add a little yeast. Allowing the dough to rise overnight in the fridge works well and makes the dough less sticky and easier to handle. I use a normal waffle maker but the pearl sugar makes the waffle maker difficult to clean. I made a blueberry sauce. Also good with strawberries and whipped cream.
 
 link
-https://the-farmersdaughter.com](https://www.the-farmersdaughter.com/blog/sourdough-liege-waffles/7/28/2020)
+[https://the-farmersdaughter.com](https://www.the-farmersdaughter.com/blog/sourdough-liege-waffles/7/28/2020)
 
 #### Ingredients
 - 1c (240g) sourdough starter, can use less if do not have full amount
