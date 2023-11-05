@@ -1,6 +1,6 @@
 ---
 title:  "Crispy Tofu"
-date:   2023-07-24 17:30:00 -0400
+date:   2023-11-04 17:30:00 -0400
 tags: [recipes,entrees]
 layout: post
 image: /images/crispytofu.jpg
