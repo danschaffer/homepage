@@ -3,7 +3,7 @@ title:  "Sweet Potato Rolls"
 date:   2023-11-10 09:30:00 -0400
 tags: [recipes,snacks]
 layout: post
-image: /images/sweetpotatorolls.jpg
+image: /images/sweetpotatorolls.png
 ---
 
 I really like the idea of pull apart rolls. The sweet potato adds really great flavor. Using the boiling water to mix with
