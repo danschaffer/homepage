@@ -1,7 +1,7 @@
 ---
 title:  "Sweet Potato Rolls"
 date:   2023-11-10 09:30:00 -0400
-tags: [recipes,snacks]
+tags: [recipes,thanksgiving]
 layout: post
 image: /images/sweetpotatorolls.png
 ---
