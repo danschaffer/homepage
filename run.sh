@@ -20,6 +20,6 @@ cd _site
 aws s3 sync --quiet . s3://www.danschaffer.info
 
 echo "invalidating cloudfront distribution..."
-aws cloudfront create-invalidation --distribution-id E1IJN3GI590RST --paths "/*" | jq .
+aws cloudfront create-invalidation --distribution-id $DIST_ID --paths "/*" | jq .
 
 echo "done"
