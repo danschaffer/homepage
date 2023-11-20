@@ -28,7 +28,7 @@ I like to put one layer of the mousse in the crust then add a layer of prailine 
 - 1 can pumpkin (make sure pure pumpkin not pie filling)
 - 1/2c white sugar
 - 1c heavy cream or whipping cream
-- chocolat finde for shavings optional
+- small amount of chocolate for shavings as optional topping for decoration
 
 ### Steps
 #### Make prailines
@@ -81,6 +81,6 @@ I like to put one layer of the mousse in the crust then add a layer of prailine 
 - add a layer of prailines
 - add remaining mousse to pie crust
 - I like to cover this and keep in fridge until right before serving
-- final part is to add a layer of prailines on top and optionally chocolate shavings
+- final part is to add a layer of prailines on top and optionally chocolate shavings for decorations
 
 ![mousse in crust](/images/prailine6.jpg)
