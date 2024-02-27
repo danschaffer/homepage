@@ -6,7 +6,7 @@ layout: post
 image: /images/blueberrymuffin.jpg
 ---
 
-Liked the blueberry recipe from Deb Perlmann since it is not quite as sweet and had lots of blueberry flavor.  Making 9 is great since 12 is usually
+Liked the blueberry recipe from Deb Perelman (from Smitten Kitchen) since it is not quite as sweet and had lots of blueberry flavor.  Making 9 is great since 12 is usually
 too many.  The sugar on top is nice using a raw sugar like demerra or turbinado. The recipe is quick with just one bowl.  It is possible to prepare
 the muffins in the time it takes to preheat the oven.
 
