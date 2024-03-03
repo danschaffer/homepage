@@ -10,10 +10,13 @@ then
 fi
 
 echo "building jekyll..."
-docker build -t jekyll .
+bundle exec jekyll build
 
-echo "building site..."
-docker run -v $(pwd):/app jekyll
+# docker
+#docker build -t jekyll .
+
+#echo "building site..."
+#docker run -v $(pwd):/app jekyll
 
 echo "copying site to s3..."
 cd _site

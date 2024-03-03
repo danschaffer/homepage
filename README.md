@@ -4,7 +4,16 @@
 - written in [jekyll](https://jekyllrb.com/)
 - theme is [Hally](https://jekyllthemes.io/theme/hally-masonry-jekyll-theme)
 
-# local development
+# local development without containers
+```
+gem update
+gem install jekyll
+gem install bundler
+bundle exec jeyll build
+bundle exec jekyll serve
+```
+
+# local development with containers
 
 - to build the page locally run
 ```
