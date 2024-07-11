@@ -12,9 +12,21 @@ Hard boiled eggs are easy to make but come out differently depending on the time
 - any number of eggs, I usually do 6 large eggs
 
 #### Steps
+### sous vide
 - in large pot place sous vide in pot
 - add enough water above where water goes out
 - preheat to desired temp, 170F
 - add eggs
 - set timer to 30m
 - add eggs to ice bath for a few minutes
+- for more cooked yokes do 185F
+
+### boiling
+youtube video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPqnS1K4vgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- boil water, turn down to for slightly bubbling water
+- set timer for 9m for egg salad, 11m for deviled eggs
+- dunk in ice water
+- peel
+
+- 
