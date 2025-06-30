@@ -12,6 +12,15 @@ Hard boiled eggs are easy to make but come out differently depending on the time
 - any number of eggs, I usually do 6 large eggs
 
 #### Steps
+### boiling water
+- in large pot with enough water to cover layer of eggs heat until boiling
+- add eggs cold from fridge use tongs to carefully place without cracking shells
+- lower heat to simmer with small bubbles
+- let simmer for 10m
+- do 9m for more jammy or 11m for less jammy
+- fill large bowl with cold water filled with ice for a few minutes
+- drain water peel or keep in fridge and peel before eating
+
 ### sous vide
 - in large pot place sous vide in pot
 - add enough water above where water goes out
