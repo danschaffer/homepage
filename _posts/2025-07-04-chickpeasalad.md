@@ -11,8 +11,7 @@ tomatoes, cucumbers but any kind of vegetables and herbs work.
 
 [Herby Chickpea Salad](https://alexandracooks.com/2025/06/14/herby-chickpea-salad-with-tomatoes-cucumbers-toasted-pine-nuts)
 
-### Ingredients
-#### 
+### Ingredients 
 - 3 cups cooked chick peas (can use 2 15oz cans)
 - 2t honey
 - 2T balsamic vinegar

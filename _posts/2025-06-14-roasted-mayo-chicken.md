@@ -12,7 +12,6 @@ youtube video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Sz40WqBg8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Ingredients
-#### 
 - 1 whole chicken 3-4 lbs
 - 1/2c mayonaise
 - herbs: parsley, sage, rosemary, or anything

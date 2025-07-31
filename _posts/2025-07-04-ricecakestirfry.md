@@ -16,7 +16,6 @@ youtube video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xvsCpvku5a8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Ingredients
-#### 
 - spinach ends removed
 - few leaves napa cabbage, ends removed, sliced thin
 - dried or fresh shitake mushrooms 3-4, sliced thin

@@ -10,7 +10,6 @@ After roasting a chicken I like to save the carcass freeze.  When I have a few I
 is so much better than store bought broth.  There are lots of recipe but I just like rough chopping half an onion, chopping a few carrots, and chopping a few stalks of celery. All kinds of fresh herbs are good and you can just add the entire herb stalk.  
 
 ### Ingredients
-#### 
 - 1 or 2 chicken carcasses from roasted chicken or any leftover bones,  if using uncooked chicken wings are good, fill a large pot about 1/3 full
 - chop half an onion, several celery stalks, a few carrots
 - add parsley, rosemary, thyme, sage, dill whatever you have

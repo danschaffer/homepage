@@ -10,7 +10,6 @@ Looks like a great chicken pot pie recipe in a skillet using a sheet of frozen p
 
 
 ### Ingredients
-#### 
 - 1T salted butter or unsalted and add 1/2 tsp of salt
 - 1 shallot chopped
 - 2T chopped fresh sage

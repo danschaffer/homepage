@@ -12,7 +12,6 @@ youtube video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XQ-qnnNvRXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Ingredients
-#### 
 - 3 large bananas, halved, slice lengthwise
 - 2T + 1/3c granulated sugar
 - 1T plus 1 stick unsalted butter, melted cooled

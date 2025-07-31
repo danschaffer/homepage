@@ -11,7 +11,6 @@ The baked oats recipe is a great versatile recipe for breakfast or a hearty snac
 [recipe on alexandracooks](https://alexandracooks.com/2013/08/09/baked-steel-cut-oatmeal/)
 
 ### Ingredients
-#### 
 - 3/4 cup steel cut oats
 - 1/2 cup slice almonds, walnut halves, or chopped pecans
 - 1 t baking powder

@@ -6,14 +6,13 @@ layout: post
 image: /images/hainanese-chicken-rice.jpg
 ---
 
-Intro to recipe
+This is a great recipe for one person.  My rice cooker is only great for 1 thigh.  The thigh steamed really nicely and the ginger and garlic flavored the recipe and infused the favor into the rice nicely.
 
 youtube video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PC6DvhGunJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ### Ingredients
-#### 
 - 3/4c jasmine rice
 - 1t bullion
 - 1-2 chicken thighs
@@ -36,6 +35,7 @@ youtube video
 - sprinkle some salt on chicken
 - add green onion stalks on top
 - start rice cooker on normal
+- chicken should be 175 when done
 - slice red chiles
 - add chili garlic sauce
 - add soy sauce
