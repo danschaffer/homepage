@@ -1,6 +1,6 @@
 ---
 title:  "peach-upsidedown-cake"
-date:   2025-09-07 12:00:00 -0400
+date:   2025-09-07 10:00:00 -0400
 tags: [recipes,cakes]
 layout: post
 image: /images/peach-upsidedown-cake.jpg
